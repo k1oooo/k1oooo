@@ -2,15 +2,15 @@
 
 i'm an **ai student at utmkl** and **co-founder of vici**, a software development startup.
 
-i'm passionate about building software, learning new technologies, and turning ideas into real products. most of my work focuses on full-stack web applications, ai-powered systems, and saas products.
+i'm passionate about building software, especially websites and full-stack applications. i enjoy learning new technologies, experimenting with ai, and turning ideas into real products.
 
 ### what i do
 
+* build modern and responsive websites
 * build full-stack web applications
 * develop ai-powered features and applications
 * design and build software systems for real-world problems
 * work on saas products and startup ideas
-* continuously improve my software development skills
 
 ### frontend
 
